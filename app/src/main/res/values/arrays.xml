@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="regions_list">
+        <item>North_Central</item>
+        <item>North_East</item>
+        <item>North_West</item>
+        <item>South_Central</item>
+        <item>South_East</item>
+        <item>South_West</item>
+    </string-array>
+
+    <string-array name="regions_list_for_settings">
+        <item>North Central</item>
+        <item>North East</item>
+        <item>North West</item>
+        <item>South Central</item>
+        <item>South East</item>
+        <item>South West</item>
+    </string-array>
+
+    <string-array name="guesses_list">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+
+</resources>
